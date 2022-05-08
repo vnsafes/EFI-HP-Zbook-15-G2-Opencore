@@ -1,5 +1,5 @@
 # ✏️  Chú ý: 
-# 📫 Opencore Laptop HP Zbook 15 G2 - 0.8.1 Full Installer 🥰.               
+# 📫 Opencore Laptop HP Zbook 15 G2 - 0.8.1 Full Installer!.               
 
 
 • Cấu hình máy: Zbook 15 G2.                             
