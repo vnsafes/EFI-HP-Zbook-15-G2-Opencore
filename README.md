@@ -5,7 +5,7 @@
 • Cấu hình máy: Zbook 15 G2.                             
 • CPU: Core I7 4810 QM 4TH.                                      
 • CARD: HD Graphics 4600.                                          
-• CARD 2: NVdia Quadro K2100 2 GB.                                                                                                                        
+• CARD 2: Quadro K2100m 2 GB.                                                                                                                       
 • RAM: 16GG DDR3 BUS 1600.
 
 
